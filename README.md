@@ -35,12 +35,17 @@ Google Colab
 ## Screenshot
 
 ![Project Screenshot1](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/ScreenShort/m1.jpg)
+<br></br>
 ![Project Screenshot2](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/ScreenShort/m2.jpg)
+<br></br>
 ![Project Screenshot3](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/ScreenShort/m3.jpg)
+<br></br>
 ![Project Screenshot4](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/ScreenShort/m4.jpg)
 
 ![Project Screenshot 1](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/ScreenShort/mR1.png)
+<br></br>
 ![Project Screenshot 2](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/ScreenShort/mR2.png)
+<br></br>
 ![Project Screenshot 3](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/ScreenShort/mR3.png)
 
 ## Installation
